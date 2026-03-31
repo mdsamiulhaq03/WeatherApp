@@ -38,8 +38,6 @@ Here’s a preview of the app in action:
 ![Search View](ScreenShots/screenshot3.png)
 ![Settings](ScreenShots/screenshot4.png)
 
-> Replace `screenshot.png` with your actual screenshot file name and place the image in your project folder.  
-> You can also put it in an `assets/` folder like `assets/screenshot.png` and update the path accordingly.
 
 ---
 
