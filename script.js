@@ -1,5 +1,5 @@
 // Configuration
-const API_KEY = "Use Your Key Here"; // Using a public demo key or user should replace with their own
+const API_KEY = "";
 const BASE_URL = "https://api.openweathermap.org/data/2.5/weather";
 
 // DOM Elements
